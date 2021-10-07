@@ -1,0 +1,39 @@
+﻿Legend:
+North America				South America			Europe						Africa					Australia
+AK = Alaska					AR = Argentina			GB = Great Britain			CO = Congo				ES = Eastern Australia
+AL = Alberta				BR = Brazil				IC = Iceland				EA = East Africa		IS = Indonesia
+CA = Central America		PU = Peru				NE = Northern Europe		EG = Egypt				NG = New Guinea
+EU = Eastern US				VZ = Venezuela			SC = Scandinavia			MD = Madagascar			WS = Western Australia
+GL = Greenland										SE = Southern Europe		NA = North Africa
+NT = Northwest Territory							RS = Russia (Ukraine)		SA = South Africa
+ON = Ontario										WE = Western Europe
+QU = Quebec
+WU = Western US
+
+Asia
+AF = Afghanistan		ME = Middle East
+CH = China				MO = Mongolia
+IN = India				SI = Siam
+IR = Irkutsk			SB = Siberia
+JA = Japan				UR = Ural
+KM = Kamchatka			YA = Yakutsk
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+                     --GL(x)-------
+                    / / |          \
+[KM]-AK(x)----NT(x)- /  |          IC(x)----SC(x)--       UR(x)---SB(x)---YA(x)---KM(x)-[AK]
+     \        \     /   |            \     /  |    \     /  | \     |\^-----^IR(x)^  |
+      AL(x)----ON(x)--QU(x)           GB(x)-NE(x)---RS(x)   |  ---  |  MO(x)---^     |
+      \    /   \     /                \    /  |     /|   \  |     \ |  /   \         |
+      WU(x)----EU(x)-                 WE(x)--SE(x)-- |    AF(x)----CN(x)   JA(x)------
+         \     /                        |     |   \  |    /  \    /  \
+          CA(x)                         |  EG(x)--ME(x)------IN(x)---SI(x)
+              \                         | /   \  /                    \
+               VZ(x)                    NA(x)--EA(x)                 IS(x)---NG(x)
+               /    \                  /   \   /    \                   \   /  \
+            PU(x)---BR(x)--------------     CO(x)    MD(x)             WS(x)---ES(x)
+                \   /                         |     /
+                AR(x)                       SA(x)---
+
+///////////////////////////////////////////////////////////////////////////////////////////////
